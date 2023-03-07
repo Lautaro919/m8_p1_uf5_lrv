@@ -14,7 +14,7 @@ p{
 }
 
 /* Todos los enlaces la pagina */
-a{
+{
   color: black;
 }
 
@@ -31,4 +31,10 @@ em.especial{
 /* Elementos "span" contenidos en la clase normal */
 .normal span{
   font-weight: bold;
+}
+a:link{
+  color: rgb(21, 255, 0);
+}
+a:visited{
+  color: rgb(238, 255, 0);
 }
